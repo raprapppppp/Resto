@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600;700&family=Pinyon+Script&family=Poppins:wght@200;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  /*font-size: 62.5%;*/
+}
+body {
+  /*font-size: 1.6rem;*/
+  /*font-family: "Poppins", sans-serif;*/
+}
